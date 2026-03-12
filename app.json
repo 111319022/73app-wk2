@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "wk1",
+    "slug": "wk1",
+    "ios": {
+      "bundleIdentifier": "com.anonymous.wk1"
+    }
+  }
+}
